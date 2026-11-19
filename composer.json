@@ -1,0 +1,17 @@
+{
+    "name": "suendri/project4",
+    "description": "Project 4 Sistem Akademik Pemrograman Berbasis Web",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Suendri",
+            "email": "mr.suendri@gmail.com"
+        }
+    ],
+    "require": {}
+}
